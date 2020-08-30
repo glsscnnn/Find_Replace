@@ -1,3 +1,5 @@
+#!/bin/python
+
 # used to handle spreadsheet
 import pandas as pd
 
